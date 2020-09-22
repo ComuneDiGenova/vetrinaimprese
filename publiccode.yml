@@ -29,6 +29,9 @@ intendedAudience:
     - us
 localisation:
   localisationReady: true
+  availableLanguages:
+    - it
+    - en
 it:
   piattaforme:
     spid: true
